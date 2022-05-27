@@ -1,0 +1,6 @@
+*.mp4
+*.json
+!dummy.json
+!dummy.mp4
+ffmpeg/
+

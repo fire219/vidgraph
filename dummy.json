@@ -1,0 +1,12 @@
+{
+    "title":       "Foo bars",
+    "axislab":     "Score",
+    "elements":    ["Foo", "foo2", "fool", "foosackly's"],
+    "scores":      [2, 1.5, "nope", 0.2],
+    "palette":     ["red", "green", "blue", "yellow"],
+    "frames":      70,
+    "plotColor":   "#101010",
+    "frameColor":  "#101010",
+    "font":        "Arial",
+    "videoRes":    [1920,1080]
+}
