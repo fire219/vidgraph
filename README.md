@@ -17,7 +17,10 @@ Then, download/compile ffmpeg for your system. By default, **VidGraph** looks fo
 
 #### Video Output:
 `grapher.py dummy.json dummy.mp4`
-*Outputs:* !(dummyvid)[https://github.com/fire219/vidgraph/raw/main/dummy.mp4]
+
+*Outputs:* 
+
+https://user-images.githubusercontent.com/6289427/170777169-a046b56a-7dcf-4bcc-912e-bedb036dd3f7.mp4
 
 ### License:
 ```
